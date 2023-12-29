@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TLN606 aka Kaizer
-- 👀 I’m interested in Game Developer
-- 🌱 I’m currently learning C/C++, C#, Python,...
-- 💞️ I’m looking to collaborate on FPT
+- 👋 Hi, I’m TLN (Trinh Lam Ngan) aka Kaizer
+- 👀 I’m interested in Game Developer, Electrician, Developer.
+- 🌱 I’m currently learning C/C++, C#, Python, GDScript, HTML, CSS, Java...
+- 💞️ I’m looking to collaborate on FPT, MIT, etc.
 - 📫 How to reach me:
   +  Discord: tln606
   +  Gmail: tlnintelligent@gmail.com
