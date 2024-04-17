@@ -1,6 +1,6 @@
-- 👋 Hi, I’m TLN (Trinh Lam Ngan) aka Kaizer
+- 👋 Hi, I’m TLN (Trinh Lam Ngan)
 - 👀 I’m interested in Game Developer, Electrician, Developer.
-- 🌱 I’m currently learning C/C++, C#, Python, GDScript, HTML, CSS, Java...
+- 🌱 I’m currently learning C/C++, C#, Python, GDScript, HTML, CSS, Java, JS,...
 - 💞️ I’m looking to collaborate on FPT, MIT, etc.
 - 📫 How to reach me:
   +  Discord: tln606
