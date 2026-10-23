@@ -30,9 +30,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 🚀 Featured project
+
+<a href="https://github.com/TLN606/Django-Judge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TLN606&repo=Django-Judge&theme=github_dark&hide_border=true" alt="Django-Judge" />
+</a>
 
 ### [Mini Judge – Web Classroom + Online Judge](https://github.com/TLN606/Django-Judge)
 
@@ -46,6 +50,28 @@ Teachers create classes and assignments with test cases; students join with a cl
 - 🐳 Docker Compose (Django + PostgreSQL) and a GitHub Actions pipeline: lint → test → build → deploy to Render
 
 `Python` `Django` `PostgreSQL` `GitHub Actions` `Render`
+
+> 👥 Team project for Software Engineering (Group 2 – D23CTC2).
+
+## 🎮 More projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| **Mobile MOBA (Unity)** | Wild Rift / Liên Quân-style MOBA: virtual joystick, lane minions, towers and nexus, gold/EXP/levels, shop, full hero kit (passive + Q/W/E/R), enemy hero bot | Unity, C# |
+| **Boki** | E-learning platform for Vietnamese primary school (grades 2–5: Math, Literature, English) with quizzes, exams, gamification and a CKEditor admin | ASP.NET MVC, SQL Server |
+| **Infinite Canvas App** | Local-first, offline-capable Milanote-style whiteboard | React, Yjs, Dexie |
+
+> 🔜 Source code for these is coming to GitHub soon.
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TLN606&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TLN606&theme=github-dark&hide_border=true&bg_color=0d1117" alt="Contribution graph" />
+</p>
 
 ## 📫 Connect & support
 
